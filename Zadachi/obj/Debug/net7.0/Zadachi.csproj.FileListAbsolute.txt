@@ -1,0 +1,15 @@
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/bin/Debug/net7.0/Zadachi
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/bin/Debug/net7.0/Zadachi.deps.json
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/bin/Debug/net7.0/Zadachi.runtimeconfig.json
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/bin/Debug/net7.0/Zadachi.dll
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/bin/Debug/net7.0/Zadachi.pdb
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.csproj.AssemblyReference.cache
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.AssemblyInfoInputs.cache
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.AssemblyInfo.cs
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.csproj.CoreCompileInputs.cache
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.dll
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/refint/Zadachi.dll
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.pdb
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/Zadachi.genruntimeconfig.cache
+/Users/kaneki44/Projects/DZ_4_NV/Zadachi/obj/Debug/net7.0/ref/Zadachi.dll
